@@ -1,0 +1,270 @@
+�Soluci�n encontrada!
+
+Estado Inicial:
+VZNVZ
+RBZRR
+BR*BN
+AAVVZ
+NAABN
+
+Movimiento: 2
+Heur�stica Manhattan (distancia al centro): 22
+Estado:
+VZNVZ
+RB*RR
+BRZBN
+AAVVZ
+NAABN
+
+Movimiento: 4
+Heur�stica Manhattan (distancia al centro): 20
+Estado:
+VZNVZ
+R*BRR
+BRZBN
+AAVVZ
+NAABN
+
+Movimiento: 1
+Heur�stica Manhattan (distancia al centro): 16
+Estado:
+VZNVZ
+RRBRR
+B*ZBN
+AAVVZ
+NAABN
+
+Movimiento: 1
+Heur�stica Manhattan (distancia al centro): 17
+Estado:
+VZNVZ
+RRBRR
+BAZBN
+A*VVZ
+NAABN
+
+Movimiento: 3
+Heur�stica Manhattan (distancia al centro): 16
+Estado:
+VZNVZ
+RRBRR
+BAZBN
+AV*VZ
+NAABN
+
+Movimiento: 2
+Heur�stica Manhattan (distancia al centro): 12
+Estado:
+VZNVZ
+RRBRR
+BA*BN
+AVZVZ
+NAABN
+
+Movimiento: 2
+Heur�stica Manhattan (distancia al centro): 16
+Estado:
+VZNVZ
+RR*RR
+BABBN
+AVZVZ
+NAABN
+
+Movimiento: 2
+Heur�stica Manhattan (distancia al centro): 20
+Estado:
+VZ*VZ
+RRNRR
+BABBN
+AVZVZ
+NAABN
+
+Movimiento: 4
+Heur�stica Manhattan (distancia al centro): 21
+Estado:
+V*ZVZ
+RRNRR
+BABBN
+AVZVZ
+NAABN
+
+Movimiento: 1
+Heur�stica Manhattan (distancia al centro): 14
+Estado:
+VRZVZ
+R*NRR
+BABBN
+AVZVZ
+NAABN
+
+Movimiento: 3
+Heur�stica Manhattan (distancia al centro): 10
+Estado:
+VRZVZ
+RN*RR
+BABBN
+AVZVZ
+NAABN
+
+Movimiento: 1
+Heur�stica Manhattan (distancia al centro): 6
+Estado:
+VRZVZ
+RNBRR
+BA*BN
+AVZVZ
+NAABN
+
+Movimiento: 4
+Heur�stica Manhattan (distancia al centro): 7
+Estado:
+VRZVZ
+RNBRR
+B*ABN
+AVZVZ
+NAABN
+
+Movimiento: 1
+Heur�stica Manhattan (distancia al centro): 8
+Estado:
+VRZVZ
+RNBRR
+BVABN
+A*ZVZ
+NAABN
+
+Movimiento: 4
+Heur�stica Manhattan (distancia al centro): 9
+Estado:
+VRZVZ
+RNBRR
+BVABN
+*AZVZ
+NAABN
+
+Movimiento: 2
+Heur�stica Manhattan (distancia al centro): 8
+Estado:
+VRZVZ
+RNBRR
+*VABN
+BAZVZ
+NAABN
+
+Movimiento: 3
+Heur�stica Manhattan (distancia al centro): 7
+Estado:
+VRZVZ
+RNBRR
+V*ABN
+BAZVZ
+NAABN
+
+Movimiento: 1
+Heur�stica Manhattan (distancia al centro): 8
+Estado:
+VRZVZ
+RNBRR
+VAABN
+B*ZVZ
+NAABN
+
+Movimiento: 1
+Heur�stica Manhattan (distancia al centro): 9
+Estado:
+VRZVZ
+RNBRR
+VAABN
+BAZVZ
+N*ABN
+
+Movimiento: 3
+Heur�stica Manhattan (distancia al centro): 8
+Estado:
+VRZVZ
+RNBRR
+VAABN
+BAZVZ
+NA*BN
+
+Movimiento: 3
+Heur�stica Manhattan (distancia al centro): 9
+Estado:
+VRZVZ
+RNBRR
+VAABN
+BAZVZ
+NAB*N
+
+Movimiento: 2
+Heur�stica Manhattan (distancia al centro): 8
+Estado:
+VRZVZ
+RNBRR
+VAABN
+BAZ*Z
+NABVN
+
+Movimiento: 3
+Heur�stica Manhattan (distancia al centro): 9
+Estado:
+VRZVZ
+RNBRR
+VAABN
+BAZZ*
+NABVN
+
+Movimiento: 2
+Heur�stica Manhattan (distancia al centro): 8
+Estado:
+VRZVZ
+RNBRR
+VAAB*
+BAZZN
+NABVN
+
+Movimiento: 4
+Heur�stica Manhattan (distancia al centro): 1
+Estado:
+VRZVZ
+RNBRR
+VAA*B
+BAZZN
+NABVN
+
+Movimiento: 4
+Heur�stica Manhattan (distancia al centro): 0
+Estado:
+VRZVZ
+RNBRR
+VA*AB
+BAZZN
+NABVN
+
+Movimiento: 4
+Heur�stica Manhattan (distancia al centro): 1
+Estado:
+VRZVZ
+RNBRR
+V*AAB
+BAZZN
+NABVN
+
+Movimiento: 1
+Heur�stica Manhattan (distancia al centro): 2
+Estado:
+VRZVZ
+RNBRR
+VAAAB
+B*ZZN
+NABVN
+
+Movimiento: 1
+Heur�stica Manhattan (distancia al centro): 3
+Estado:
+VRZVZ
+RNBRR
+VAAAB
+BAZZN
+N*BVN
+
