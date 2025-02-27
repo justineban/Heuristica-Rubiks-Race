@@ -57,7 +57,7 @@ class RubiksRace:
     
     def get_manhattan_distance(self, state: np.ndarray) -> int:
         """
-        Heurística: Distancia Manhattan considerando el centro 3x3 como objetivo
+        Heuristica: Distancia Manhattan considerando el centro 3x3 como objetivo
         """
         distance = 0
         start_row = (state.shape[0] - self.goal.shape[0]) // 2
@@ -140,9 +140,9 @@ class RubiksRace:
 
     def is_valid_state_transition(self, current_state: np.ndarray, next_state: np.ndarray) -> bool:
         """
-        Verifica que la transición entre estados sea válida:
+        Verifica que la transicion entre estados sea válida:
         - Solo se debe mover una ficha
-        - El asterisco debe moverse a una posición adyacente
+        - El asterisco debe moverse a una posicion adyacente
         - Solo debe haber dos cambios (la ficha y el asterisco)
         """
         # Encontrar posiciones del asterisco en ambos estados
@@ -187,7 +187,7 @@ class RubiksRace:
 
     def validar_alfabeto(self, state: np.ndarray) -> Tuple[bool, str]:
         """
-        Verifica que todas las letras en el estado estén en el alfabeto permitido
+        Verifica que todas las letras en el estado esten en el alfabeto permitido
         Retorna: (es_valido, letra_invalida)
         """
         for fila in state:
@@ -199,7 +199,7 @@ class RubiksRace:
     def solve(self) -> List[Tuple[np.ndarray, int]]:
         # Verificar si la meta es válida
         if not self.es_meta_valida(self.goal):
-            print("No existe solución: El estado meta contiene más de 4 repeticiones de al menos una letra")
+            print("No existe solucion: El estado meta contiene más de 4 repeticiones de al menos una letra")
             return None
             
         # Verificar el alfabeto en ambos estados
@@ -207,10 +207,10 @@ class RubiksRace:
         es_valido_meta, letra_invalida_meta = self.validar_alfabeto(self.goal)
         
         if not es_valido_inicial:
-            print(f"No existe solución: El estado inicial contiene la letra '{letra_invalida_inicial}' que no existe en el juego")
+            print(f"No existe solucion: El estado inicial contiene la letra '{letra_invalida_inicial}' que no existe en el juego")
             return None
         if not es_valido_meta:
-            print(f"No existe solución: El estado meta contiene la letra '{letra_invalida_meta}' que no existe en el juego")
+            print(f"No existe solucion: El estado meta contiene la letra '{letra_invalida_meta}' que no existe en el juego")
             return None
 
         start = self.initial
@@ -224,7 +224,7 @@ class RubiksRace:
             state_tuple = tuple(map(tuple, current))
             
             if self.is_goal_reached(current):
-                output_file.write("¡Solución encontrada!\n\n")
+                output_file.write("¡Solucion encontrada!\n\n")
                 # Escribir estado inicial
                 output_file.write("Estado Inicial:\n")
                 output_file.write('\n'.join(''.join(row) for row in self.initial))
@@ -235,7 +235,7 @@ class RubiksRace:
                     output_file.write(f"Movimiento: {mov}\n")
                     # Calcular y mostrar las heurísticas para este estado
                     h_manhattan = self.get_manhattan_distance(estado)
-                    output_file.write(f"Heurística Manhattan (distancia al centro): {h_manhattan}\n")
+                    output_file.write(f"Heuristica Manhattan (distancia al centro): {h_manhattan}\n")
                     output_file.write("Estado:\n")
                     output_file.write('\n'.join(''.join(row) for row in estado))
                     output_file.write("\n\n")
@@ -259,7 +259,7 @@ class RubiksRace:
                     
                     heapq.heappush(frontier, (g_new + h, g_new, counter, next_state, path + [(next_state, move)]))
         
-        output_file.write("No se encontró solución\n")
+        output_file.write("No se ha encontrado solucion\n")
         output_file.close()
         return None
 
@@ -268,6 +268,6 @@ if __name__ == "__main__":
     solution = game.solve()
     
     if solution:
-        print(f"¡Solución encontrada! ({len(solution)} movimientos)")
+        print(f"¡Solucion encontrada! ({len(solution)} movimientos)")
     else:
-        print("No se encontró solución")
+        print("No se ha encontrado solucion")

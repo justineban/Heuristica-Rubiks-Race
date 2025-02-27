@@ -1,4 +1,4 @@
-ï¿½Soluciï¿½n encontrada!
+¡Solucion encontrada!
 
 Estado Inicial:
 VZNVZ
@@ -8,7 +8,7 @@ AAVVZ
 NAABN
 
 Movimiento: 2
-Heurï¿½stica Manhattan (distancia al centro): 22
+Heuristica Manhattan (distancia al centro): 22
 Estado:
 VZNVZ
 RB*RR
@@ -17,7 +17,7 @@ AAVVZ
 NAABN
 
 Movimiento: 4
-Heurï¿½stica Manhattan (distancia al centro): 20
+Heuristica Manhattan (distancia al centro): 20
 Estado:
 VZNVZ
 R*BRR
@@ -26,7 +26,7 @@ AAVVZ
 NAABN
 
 Movimiento: 1
-Heurï¿½stica Manhattan (distancia al centro): 16
+Heuristica Manhattan (distancia al centro): 16
 Estado:
 VZNVZ
 RRBRR
@@ -35,7 +35,7 @@ AAVVZ
 NAABN
 
 Movimiento: 1
-Heurï¿½stica Manhattan (distancia al centro): 17
+Heuristica Manhattan (distancia al centro): 17
 Estado:
 VZNVZ
 RRBRR
@@ -44,7 +44,7 @@ A*VVZ
 NAABN
 
 Movimiento: 3
-Heurï¿½stica Manhattan (distancia al centro): 16
+Heuristica Manhattan (distancia al centro): 16
 Estado:
 VZNVZ
 RRBRR
@@ -53,7 +53,7 @@ AV*VZ
 NAABN
 
 Movimiento: 2
-Heurï¿½stica Manhattan (distancia al centro): 12
+Heuristica Manhattan (distancia al centro): 12
 Estado:
 VZNVZ
 RRBRR
@@ -62,7 +62,7 @@ AVZVZ
 NAABN
 
 Movimiento: 2
-Heurï¿½stica Manhattan (distancia al centro): 16
+Heuristica Manhattan (distancia al centro): 16
 Estado:
 VZNVZ
 RR*RR
@@ -71,7 +71,7 @@ AVZVZ
 NAABN
 
 Movimiento: 2
-Heurï¿½stica Manhattan (distancia al centro): 20
+Heuristica Manhattan (distancia al centro): 20
 Estado:
 VZ*VZ
 RRNRR
@@ -80,7 +80,7 @@ AVZVZ
 NAABN
 
 Movimiento: 4
-Heurï¿½stica Manhattan (distancia al centro): 21
+Heuristica Manhattan (distancia al centro): 21
 Estado:
 V*ZVZ
 RRNRR
@@ -89,7 +89,7 @@ AVZVZ
 NAABN
 
 Movimiento: 1
-Heurï¿½stica Manhattan (distancia al centro): 14
+Heuristica Manhattan (distancia al centro): 14
 Estado:
 VRZVZ
 R*NRR
@@ -98,7 +98,7 @@ AVZVZ
 NAABN
 
 Movimiento: 3
-Heurï¿½stica Manhattan (distancia al centro): 10
+Heuristica Manhattan (distancia al centro): 10
 Estado:
 VRZVZ
 RN*RR
@@ -107,7 +107,7 @@ AVZVZ
 NAABN
 
 Movimiento: 1
-Heurï¿½stica Manhattan (distancia al centro): 6
+Heuristica Manhattan (distancia al centro): 6
 Estado:
 VRZVZ
 RNBRR
@@ -116,7 +116,7 @@ AVZVZ
 NAABN
 
 Movimiento: 4
-Heurï¿½stica Manhattan (distancia al centro): 7
+Heuristica Manhattan (distancia al centro): 7
 Estado:
 VRZVZ
 RNBRR
@@ -125,7 +125,7 @@ AVZVZ
 NAABN
 
 Movimiento: 1
-Heurï¿½stica Manhattan (distancia al centro): 8
+Heuristica Manhattan (distancia al centro): 8
 Estado:
 VRZVZ
 RNBRR
@@ -134,7 +134,7 @@ A*ZVZ
 NAABN
 
 Movimiento: 4
-Heurï¿½stica Manhattan (distancia al centro): 9
+Heuristica Manhattan (distancia al centro): 9
 Estado:
 VRZVZ
 RNBRR
@@ -143,7 +143,7 @@ BVABN
 NAABN
 
 Movimiento: 2
-Heurï¿½stica Manhattan (distancia al centro): 8
+Heuristica Manhattan (distancia al centro): 8
 Estado:
 VRZVZ
 RNBRR
@@ -152,7 +152,7 @@ BAZVZ
 NAABN
 
 Movimiento: 3
-Heurï¿½stica Manhattan (distancia al centro): 7
+Heuristica Manhattan (distancia al centro): 7
 Estado:
 VRZVZ
 RNBRR
@@ -161,7 +161,7 @@ BAZVZ
 NAABN
 
 Movimiento: 1
-Heurï¿½stica Manhattan (distancia al centro): 8
+Heuristica Manhattan (distancia al centro): 8
 Estado:
 VRZVZ
 RNBRR
@@ -170,7 +170,7 @@ B*ZVZ
 NAABN
 
 Movimiento: 1
-Heurï¿½stica Manhattan (distancia al centro): 9
+Heuristica Manhattan (distancia al centro): 9
 Estado:
 VRZVZ
 RNBRR
@@ -179,7 +179,7 @@ BAZVZ
 N*ABN
 
 Movimiento: 3
-Heurï¿½stica Manhattan (distancia al centro): 8
+Heuristica Manhattan (distancia al centro): 8
 Estado:
 VRZVZ
 RNBRR
@@ -188,7 +188,7 @@ BAZVZ
 NA*BN
 
 Movimiento: 3
-Heurï¿½stica Manhattan (distancia al centro): 9
+Heuristica Manhattan (distancia al centro): 9
 Estado:
 VRZVZ
 RNBRR
@@ -197,7 +197,7 @@ BAZVZ
 NAB*N
 
 Movimiento: 2
-Heurï¿½stica Manhattan (distancia al centro): 8
+Heuristica Manhattan (distancia al centro): 8
 Estado:
 VRZVZ
 RNBRR
@@ -206,7 +206,7 @@ BAZ*Z
 NABVN
 
 Movimiento: 3
-Heurï¿½stica Manhattan (distancia al centro): 9
+Heuristica Manhattan (distancia al centro): 9
 Estado:
 VRZVZ
 RNBRR
@@ -215,7 +215,7 @@ BAZZ*
 NABVN
 
 Movimiento: 2
-Heurï¿½stica Manhattan (distancia al centro): 8
+Heuristica Manhattan (distancia al centro): 8
 Estado:
 VRZVZ
 RNBRR
@@ -224,7 +224,7 @@ BAZZN
 NABVN
 
 Movimiento: 4
-Heurï¿½stica Manhattan (distancia al centro): 1
+Heuristica Manhattan (distancia al centro): 1
 Estado:
 VRZVZ
 RNBRR
@@ -233,7 +233,7 @@ BAZZN
 NABVN
 
 Movimiento: 4
-Heurï¿½stica Manhattan (distancia al centro): 0
+Heuristica Manhattan (distancia al centro): 0
 Estado:
 VRZVZ
 RNBRR
@@ -242,7 +242,7 @@ BAZZN
 NABVN
 
 Movimiento: 4
-Heurï¿½stica Manhattan (distancia al centro): 1
+Heuristica Manhattan (distancia al centro): 1
 Estado:
 VRZVZ
 RNBRR
@@ -251,7 +251,7 @@ BAZZN
 NABVN
 
 Movimiento: 1
-Heurï¿½stica Manhattan (distancia al centro): 2
+Heuristica Manhattan (distancia al centro): 2
 Estado:
 VRZVZ
 RNBRR
@@ -260,7 +260,7 @@ B*ZZN
 NABVN
 
 Movimiento: 1
-Heurï¿½stica Manhattan (distancia al centro): 3
+Heuristica Manhattan (distancia al centro): 3
 Estado:
 VRZVZ
 RNBRR
